@@ -17,8 +17,5 @@
 
 </body>
 </html>
-  ji
-
-  hello 
 
 
